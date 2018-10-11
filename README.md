@@ -1,4 +1,4 @@
-# Project 1.3-Physics-Converter
+# Project 1.3: Physics-Converter
 Students will create a Measurement Converter in Java.<br>
 
 This program converts from “American” units to ISO/Metric units <b>(and vice-versa)</b> of:<br>
